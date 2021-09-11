@@ -1,0 +1,4 @@
+SHAREFOLDER=//path_to_share_folder/LOGS_MULTISCAN
+USERNAME=administrator
+PASSWORDIK=password_for_domain_admin
+DOMANIK=ip_address_domain

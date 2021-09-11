@@ -1,0 +1,3 @@
+******** BEGIN ********
+No infected files was found on all scanned windows machines
+********* END *********

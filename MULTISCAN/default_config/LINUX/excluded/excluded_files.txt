@@ -1,0 +1,4 @@
+./proc
+##add excluded files for scan linux hosts
+
+

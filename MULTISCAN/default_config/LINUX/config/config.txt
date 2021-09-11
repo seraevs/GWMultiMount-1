@@ -1,0 +1,2 @@
+PASSWORDIK=password_for_root
+

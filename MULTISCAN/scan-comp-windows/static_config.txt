@@ -1,0 +1,3 @@
+SHAREFOLDER=/path_to_share_folder/LOGS_MULTISCAN/windows 
+INFILE=/opt/ANTIVIRUS/MULTISCAN/scan-comp-windows
+SECURE_FILE=/opt/ANTIVIRUS/MULTISCAN/

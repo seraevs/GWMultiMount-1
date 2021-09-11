@@ -1,0 +1,2 @@
+##PATH_TO_WINDOWS_PARTITION_FOR_SCAN
+##EXAMPLE: c$/temp/Recovery
